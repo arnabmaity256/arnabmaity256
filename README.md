@@ -1,6 +1,6 @@
 # Hi there, I'm Arnab Maity
 
-I am a Computer Science researcher, software architect, and developer with a strong focus on data privacy, digital autonomy, and adversarial machine learning. 
+I am a Computer Science student, software architect, and developer with a strong focus on data privacy, digital autonomy, and adversarial machine learning. 
 
 ## What I'm Working On
 
