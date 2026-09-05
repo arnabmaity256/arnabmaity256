@@ -1,26 +1,26 @@
-# Hi there, I'm Arnab Maity 👋
+# Hi there, I'm Arnab Maity
 
-I am a Computer Science student, software architect, and developer with a strong focus on data privacy, digital autonomy, and adversarial machine learning. 
+I am a Computer Science researcher, software architect, and developer with a strong focus on data privacy, digital autonomy, and adversarial machine learning. 
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- 🔭 I’m currently developing a **secure ecosystem** designed for real-time forensic verification of media clips against deepfake manipulation.
-- 🛡️ My core focus includes **explainable AI, forensic signal analysis, facial recognition protection, and biometric consent**.
-- 🏗️ I work extensively with **modular backend architectures**, database sharding, and audit-ready server configurations.
+- I’m currently developing a **secure ecosystem** designed for real-time forensic verification of media clips against deepfake manipulation.
+- My core focus includes **forensic signal analysis, facial recognition protection, and biometric consent** (Face Anonymisation).
+- I work extensively with **modular backend architectures**, database sharding, and audit-ready server configurations following SOC 2 and ISO 27001 standards.
 
-## 🏆 Recent Highlights
+## Recent Highlights
 
-- 🎓 Completed the **Science Academies' Summer Research Fellowship Program (IASc-INSA-NASI)**.
-- 📄 Co-authored the research paper: *"LatentPrintFormer: A Hybrid CNN-Transformer with Spatial Attention for Latent Fingerprint identification"*.
-- 🎤 Had research accepted for presentation at the **10th IAPR International Conference on Computer Vision and Image Processing (CVIP-2025)** at IIT Ropar.
-- 🤝 Conducted research under the mentorship of Dr. Pavan Kumar C, IIIT Dharwad and Dr. Raghavendra Ramachandra, Norwegian University of Science and Technology.
+- Completed the **Science Academies' Summer Research Fellowship Program (IASc-INSA-NASI)**.
+- Co-authored the research paper: *"LatentPrintFormer: A Hybrid CNN-Transformer with Spatial Attention for Latent Fingerprint identification"*.
+- Had research accepted for presentation at the **10th IAPR International Conference on Computer Vision and Image Processing (CVIP-2025)** at IIT Ropar.
+- Conducted research under the joint mentorship of Dr. Pavan Kumar C (IIIT Dharwad) and Dr. Raghavendra Ramachandra (Norwegian University of Science and Technology).
 
-## 🛠️ Expertise & Interests
+## Expertise & Interests
 
-- **AI & ML:** Deepfake Detection, Computer Vision.
+- **AI & ML:** Adversarial Machine Learning, Deepfake Detection, Computer Vision.
 - **Architecture & Security:** Modular Backend Systems, Data Privacy, Compliance & Audit-ready configurations.
 
-## 📫 Let's Connect
+## Let's Connect
 
 <!-- Note: Update the href links to point to your actual profiles -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnabmaity6781)
