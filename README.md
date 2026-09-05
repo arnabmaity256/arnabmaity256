@@ -20,13 +20,6 @@ I am a Computer Science student, software architect, and developer with a strong
 - **AI & ML:** Deepfake Detection, Computer Vision.
 - **Architecture & Security:** Modular Backend Systems, Data Privacy, Compliance & Audit-ready configurations.
 
-## 📊 GitHub Stats
-
-<!-- Note: Replace YOUR_GITHUB_USERNAME below with your actual GitHub username -->
-![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabmaity256&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabmaity256&layout=compact&theme=radical)
-
 ## 📫 Let's Connect
 
 <!-- Note: Update the href links to point to your actual profiles -->
