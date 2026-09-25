@@ -2,6 +2,11 @@
 
 I am a Computer Science student, software architect, and developer with a strong focus on data privacy, digital autonomy, and adversarial machine learning. 
 
+## Current Role
+
+- **Research Engineer** at **Faceoff Technologies Private Limited**
+  - Leading research and engineering initiatives focused on synthetic media verification, forensic signal analysis, and scalable backend infrastructure.
+
 ## What I'm Working On
 
 - I’m currently developing a **secure ecosystem** designed for real-time forensic verification of media clips against deepfake manipulation.
@@ -11,7 +16,8 @@ I am a Computer Science student, software architect, and developer with a strong
 ## Recent Highlights
 
 - Completed the **Science Academies' Summer Research Fellowship Program (IASc-INSA-NASI)**.
-- Co-authored the research paper: *"LatentPrintFormer: A Hybrid CNN-Transformer with Spatial Attention for Latent Fingerprint identification"*.
+- - Co-authored the research paper: *"LatentPrintFormer: A Hybrid CNN-Transformer with Spatial Attention for Latent Fingerprint identification"*  
+  [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fxxxx--xxxx--x-blue?style=flat-square)](https://doi.org/10.48550/arXiv.2511.08119)
 - Had research accepted for presentation at the **10th IAPR International Conference on Computer Vision and Image Processing (CVIP-2025)** at IIT Ropar.
 - Conducted research under the joint mentorship of Dr. Pavan Kumar C (IIIT Dharwad) and Dr. Raghavendra Ramachandra (Norwegian University of Science and Technology).
 
