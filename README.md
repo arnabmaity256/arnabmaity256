@@ -4,7 +4,7 @@ I am a Computer Science student, software architect, and developer with a strong
 
 ## Current Role
 
-- **Research Engineer** at **Faceoff Technologies Private Limited**
+- **Research Engineer** at **Faceoff Technologies**
   - Leading research and engineering initiatives focused on synthetic media verification, forensic signal analysis, and scalable backend infrastructure.
 
 ## What I'm Working On
